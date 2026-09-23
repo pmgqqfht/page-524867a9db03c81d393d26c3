@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "896b89e43904fee2fb355c57",
+  "owner": "pmgqqfht",
+  "repo": "page-524867a9db03c81d393d26c3",
+  "title": "腾龙加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "524867a9db03c81d393d26c3",
+      "a": "腾龙加速器",
+      "b": "机场官网线路发布页",
+      "entity": "腾龙加速器",
+      "brand": "腾龙加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4a1c4492fe7c748ee5b06f9dca81161e30cd9f93384dbc93d3c640b58501dae2",
+      "content": {
+        "primary_entity": "腾龙加速器",
+        "keyword1": "腾龙加速器",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，支持多平台客户端订阅导入与设备在线管理。基础版每月 100GB 流量、3 台设备，适合轻度浏览与基础流媒体；旗舰版每月 300GB、5 台设备，配备 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，提供 VIP 专属高带宽节点。按年付方案分别约 ¥150、¥350 与 ¥850，订阅周期灵活。",
+          "AI_HERO_SUBTITLE": "腾龙加速器多设备订阅选择",
+          "AI_HERO_INTRO": "腾龙加速器提供基础版、旗舰版与团队版三档套餐，围绕流量、在线设备数与线路类型进行区分，可搭配主流客户端完成订阅导入，适合个人、家庭及小型团队按需选用。",
+          "AI_VISUAL_TITLE": "腾龙加速器套餐概览",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备在线",
+          "AI_FEATURES_TITLE": "套餐与设备适配特点",
+          "AI_FEATURES_INTRO": "从流量需求、同时在线的设备数量与订阅周期三个角度选择合适套餐。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，可依日常用量逐步升级。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，适合个人到小型团队。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付可按需调整，年付基础版约 ¥150、旗舰版约 ¥350、团队版约 ¥850。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备可选用与其系统匹配的客户端，再导入订阅配置。Windows 与 macOS 常用 Clash Verge、v2rayN 等；iOS 可参考 Shadowrocket、Quantumult X；Android 可参考 v2rayNG、Clash for Android。具体兼容性与操作请以所用客户端文档为准。",
+          "AI_PLANS_TITLE": "腾龙加速器套餐对比",
+          "AI_PLANS_INTRO": "基础版月付 ¥15，适合 100GB 以内轻度使用；旗舰版月付 ¥35，提供 300GB 与 IPLC 专线游戏加速优化，为多数用户推荐档位；团队版月付 ¥85，支持 1000GB 与 20 台设备，适合多设备团队。年付方案约为月付十个月价格。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_GUIDE_INTRO": "按需求选定套餐后，在对应客户端完成订阅导入即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求和在线设备数量，在基础版、旗舰版、团队版之间确定合适档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的操作系统与客户端版本满足订阅导入条件，避免格式不兼容。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，完成后在设备上启用连接并测试访问。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "腾龙加速器基础版适合哪些用户？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，适合日常浏览、轻度流媒体和少量设备使用的个人用户，年付约 ¥150，入门成本较低。",
+          "AI_FAQ_QUESTION_2": "旗舰版相比基础版多了什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月流量提升至 300GB，可 5 台设备同时在线，并提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合对稳定性和速度要求更高的用户。",
+          "AI_FAQ_QUESTION_3": "团队版可以多少人使用？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，并配备 VIP 专属高带宽节点与企业定制路由，适合小型团队或多设备环境统一订阅。",
+          "AI_FAQ_QUESTION_4": "腾龙加速器支持哪些客户端？",
+          "AI_FAQ_ANSWER_4": "Windows 与 macOS 可参考 Clash Verge、v2rayN 等客户端，iOS 可参考 Shadowrocket、Quantumult X，Android 可参考 v2rayNG、Clash for Android，导入订阅前请确认格式匹配。",
+          "AI_FAQ_QUESTION_5": "按年付比按月付划算吗？",
+          "AI_FAQ_ANSWER_5": "年付方案基础版约 ¥150、旗舰版约 ¥350、团队版约 ¥850，相比按月支付十二个月可节省约两个月费用，适合确定长期使用的用户。",
+          "AI_CLOSING_TITLE": "选好套餐即可开始配置",
+          "AI_CLOSING_TEXT": "根据流量与设备数选定档位，在对应客户端导入订阅，快速启用腾龙加速器。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fbbbf.cn",
+    "host": "fbbbf.cn"
+  },
+  "file_hashes": {
+    "index.html": "b6156e54e57c4fba13db8a39c327bb0802c774a9a38d34a4c49417352bbfb730",
+    "sitemap.xml": "8da84ea5db4b2f9ae63c499d80b5cff8f962cbac2a8499de579f587256043f89",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "63c0062305af9b51ba45ac7216b733f3437fa36eeb572cce27a92e7c73ec2fc2",
+    "robots.txt": "8829f22691c0c7fb0d1f32e86dbcaa767daee6ae13c51aec2fbcaa26f77a390a",
+    "72c39ca9fa92b62128464fcb19d47989.txt": "b86ed82235d0aff8c41c115fba4ada12675f870537993bc70473646bcca5c0bc"
+  },
+  "revision": "33340b22bb485e09dfbe280ac364aef6c6b3b3fe9fc047e7b3d6dca4ba5f70f3"
+}
